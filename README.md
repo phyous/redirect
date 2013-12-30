@@ -18,7 +18,7 @@ google,http://www.google.com
 4- Going to 0.0.0.0:8080/google will redirect you to http://www.google.com
 
 ## Examples
-* [phyous.com/blog](http://www.phyous.com/blog)
-* [phyous.com/linkedin](http://www.phyous.com/linkedin)
-* [phyous.com/github](http://www.phyous.com/github)
-* [phyous.com/twitter](http://www.phyous.com/twitter)
+* [philyoussef.com/blog](http://www.philyoussef.com/blog)
+* [philyoussef.com/linkedin](http://www.philyoussef.com/linkedin)
+* [philyoussef.com/github](http://www.philyoussef.com/github)
+* [philyoussef.com/twitter](http://www.philyoussef.com/twitter)
