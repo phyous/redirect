@@ -20,4 +20,7 @@ get %r{/([\w]+)} do
 end
 
 load_mappings
+set :environment, :production
+set :logging, true
+set :raise_errors, false
 set :port, ARGV[0]

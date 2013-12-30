@@ -12,5 +12,5 @@ google,http://www.google.com
 twitter,http://www.twitter.com
 ```
 3- Start server on desired port
-> ruby redirect.rb 8080
+> ruby redirect.rb 8080 -e production
 4- Going to 0.0.0.0:8080/google will redirect you to http://www.google.com
